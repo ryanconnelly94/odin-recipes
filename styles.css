@@ -1,0 +1,45 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gray;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    font-size: 32px;
+    font-display: inline;
+    display: inline-block;
+}
+
+.pizza {
+    background-color: orange;
+    color: white;display
+    font-display: inline;
+    font-size: 32px;
+}
+
+.lasagna {
+    background-color: red;
+    color: white;
+    font-display: inline;
+    font-size: 32px;
+}
+
+.spaghetti {
+    background-color: brown;
+    color: white;
+    font-display: inline;
+    font-size: 32px;
+}
+
+body.lasagna{
+    background-color: red;
+}
+
+body.pizza{
+    background-color: orange;
+}
+
+body.spaghetti{
+    background-color: brown;
+}
